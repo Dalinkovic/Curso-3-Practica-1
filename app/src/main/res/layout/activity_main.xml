@@ -12,9 +12,10 @@
         android:padding="20dp">
 
         <EditText
-            android:id="@+id/txtNombreCompleto"
+            android:id="@+id/etNombreCompleto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="text"
             android:hint="@string/nombre_completo" />
 
 
@@ -91,7 +92,7 @@
         </LinearLayout>
 
         <EditText
-            android:id="@+id/editTextPhone"
+            android:id="@+id/etTextPhone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -100,13 +101,21 @@
             android:inputType="phone" />
 
         <EditText
-            android:id="@+id/editTextTextEmailAddress"
+            android:id="@+id/etEmailAddress"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:ems="10"
             android:hint="@string/email"
             android:inputType="textEmailAddress" />
+        <EditText
+            android:id="@+id/etDescripcion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:hint="@string/descripcion"
+            android:inputType="textLongMessage" />
 
     </LinearLayout>
 

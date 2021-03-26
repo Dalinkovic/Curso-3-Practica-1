@@ -8,4 +8,11 @@
     <string name="tel_fono">Teléfono</string>
     <string name="email">Email:</string>
     <string name="siguiente">Siguiente</string>
+    <string name="descripcion">Descripción</string>
+    <string name="editar">Editar datos</string>
+    <string name="confirmar_datos">Confirmar datos</string>
+    <string name="tv_fecha_de_nacimiento">Fecha de nacimiento:</string>
+    <string name="tv_telefono">Teléfono:</string>
+    <string name="tv_email">Email:</string>
+    <string name="tv_descripcion">Descripción:</string>
 </resources>
