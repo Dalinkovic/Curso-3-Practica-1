@@ -2,6 +2,12 @@
 
 Incluyo tres imágenes del proyecto funcionando.
 
+Hazme el favor de corregídmelo, que somos pocos en el curso y toda ayuda es poca.
+Podeis dejadme un enlace si quereis que devuelva la corrección.
+
+Saludos.
+
+
 Edición
 ![Edición](https://github.com/Dalinkovic/Curso-3-Practica-1/blob/master/Screenshot_2021-03-26-19-23-08-030_com.dossis.contactos.jpg?raw=true)
 
