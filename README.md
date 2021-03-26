@@ -5,6 +5,8 @@ Incluyo tres imágenes del proyecto funcionando.
 Hazme el favor de corregídmelo, que somos pocos en el curso y toda ayuda es poca.
 Podeis dejadme un enlace si quereis que devuelva la corrección.
 
+https://www.coursera.org/learn/desarrollo-de-aplicaciones/peer/NyHFE/desarrollando-una-aplicacion/review/DIzX245lEeucNg55KLetPw
+
 Saludos.
 
 
